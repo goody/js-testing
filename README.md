@@ -13,4 +13,4 @@ Testing JavaScript and/or TDJSD with Jasmine and Karma
 
 ### Karma
   <blockquote>Spectacular Test Runner for Javascript</blockquote>
-  http://karma-runner.github.io/0.12/intro/installation.html
+  http://karma-runner.github.io/
