@@ -10,6 +10,7 @@ Testing JavaScript and/or TDJSD with Jasmine and Karma
 ### Jasmine(2.0)
   <blockquote>Jasmine is a behavior-driven development framework for testing JavaScript code</blockquote>
   http://jasmine.github.io/
+  Install: https://github.com/jasmine/jasmine-npm
 
 ### Karma
   <blockquote>Spectacular Test Runner for Javascript</blockquote>
